@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: Arial;
+   
+   
+    
+}
+
+html{
+    scroll-behavior: smooth;
+    
+}
+
+body{
+    background-color: white;
+    color: #251c0b; 
+}
+
+.header{
+    display: flex;
+    background-color: #ff004f;
+    color: white;
+    padding: 20px;
+    justify-content: center; 
+    margin-bottom: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+
+.container{
+    text-align: center;
+    color: #ff004f;
+    margin: auto;
+    width: 100%;
+    font-weight: 100;
+    
+}
+
+#options{
+    margin: 15px;
+}
+
+#answer{
+    margin: 10px;
+}
+
+  
+button{
+    margin: 20px;
+}
+
+
+
